@@ -1,0 +1,17 @@
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/obj/Debug/Assembly-CSharp.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/UnityEngine.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/UnityEditor.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Andrew/Desktop/Trent2016/ScreenClean/Temp/bin/Debug/Mono.Cecil.Mdb.dll
